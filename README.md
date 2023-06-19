@@ -1,9 +1,7 @@
 # open-e-cont-md.github.io
-Open.e-Cont.Md Documentation
+<h2>Open.e-Cont.Md Documentation</h2>
 
-1) ...<br>
-
-2) ...
-
-3) ...
+<p>1) ...</p>
+<p>2) ...</p>
+<p>3) ...</p>
 
