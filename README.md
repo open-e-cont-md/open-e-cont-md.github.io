@@ -13,8 +13,6 @@
 <p>Comments:</p>
 <p>API must be compatible to OPEN API standards</p>
 <p>https://www.openapis.org/</p>
-
-<p>&nbsp;</p>
 <p>Compliance with the European standard on eInvoicing</p>
 <p>https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/EN+16931+compliance</p>
 
