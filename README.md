@@ -11,7 +11,7 @@
 
 <p>&nbsp;</p>
 <p>Comments:</p>
-<p>API must be compatible to OPEN API standards</p>p>
+<p>API must be compatible to OPEN API standards</p>
 <p>https://www.openapis.org/</p>
 
 <p>&nbsp;</p>
