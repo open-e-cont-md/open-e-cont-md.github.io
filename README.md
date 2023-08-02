@@ -9,3 +9,12 @@
 <p>6. API for client.docs.open.e-cont.md</p>
 <p>7. API for Alert and Notification Module</p>
 
+<p>&nbsp;</p>
+<p>Comments:</p>
+<p>API must be compatible to OPEN API standards</p>p>
+<p>https://www.openapis.org/</p>
+
+<p>&nbsp;</p>
+<p>Compliance with the European standard on eInvoicing</p>
+<p>https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/EN+16931+compliance</p>
+
