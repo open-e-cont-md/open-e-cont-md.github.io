@@ -1,7 +1,7 @@
 # open-e-cont-md.github.io
 <h2>Open.e-Cont.Md Documentation</h2>
 
-<p><a href="The list of APIs of project open.e-Cont.md">The list of APIs of open.e-Cont.md</a></p>
+<p><a href="https://api.open.e-cont.md/docs/" target="_blank">The list of APIs</a> of the project <a href="https://open.e-cont.md" target="_blank">open.e-Cont.md</a></p>
 
 <p></p>
 <p>1. API for Module for Invoice Repository internal operations</p>
