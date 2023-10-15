@@ -15,6 +15,6 @@
 <p>&nbsp;</p>
 <p>Comments:</p>
 <p>API must be compatible to OPEN API standards</p>
-<p><a href="https://www.openapis.org/" target="_blank">www.openapis.org</a></p>
+<p><a href="https://www.openapis.org/" target="_blank">OpenAPI Initiative</a></p>
 <p>Compliance with the European standard on eInvoicing</p>
 <p><a href="https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/EN+16931+compliance" target="_blank">EN 16931 compliance</a></p>
